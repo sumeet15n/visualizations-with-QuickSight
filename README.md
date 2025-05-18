@@ -39,7 +39,7 @@ A screenshot of the created bucket and the uploaded objects is shown below.
 
 I signed up for QuickSight using the same email address that I used for my AWS account, selected the same region as that of my S3 bucket (ap-south-1) as the QuickSight region, and gave QuickSight the access to the S3 service. (**Very important: To avoid getting heavily charged, I de-selected the 'Add Pixel-Perfect Reports' add-on during sign up and deleted my QuickSight account after completing this project.**).
 
-A screenshot of the successfull account creation page is shown below.
+A screenshot of the successful account creation page is shown below.
 
 ![Image](https://github.com/sumeet15n/visualizations-with-QuickSight/blob/master/Screenshots/SS2.JPG)
 
@@ -51,7 +51,7 @@ I navigated to the Datasets tab on QuickSight and created a new dataset with S3 
 
 ### Step 4: Create the Visualizations on QuickSight
 
-QuickSight allows us to sort, filter, or customise our data to create different visualizations. We can also experiment with different types of graphs such as bar charts, pie charts, and line graphs.
+QuickSight allows us to sort, filter, or customize our data to create different visualizations. We can also experiment with different types of graphs such as bar charts, pie charts, and line graphs.
 
 I created some visualizations by experimenting with the 'Data' and 'Visuals' sections on QuickSight, as shown in the below screenshots.
 
@@ -62,7 +62,7 @@ I created some visualizations by experimenting with the 'Data' and 'Visuals' sec
 ### Step 5: Solve some Use Cases and Publish the Dashboard
 
 I created visualizations to solve the below use cases.
-1. "I quite like the breakdown of TV shows/movies for each release year. Would it be possible to stack movies and TV shows in the same row, so you can visualise the % of each?"
+1. "I quite like the breakdown of TV shows/movies for each release year. Would it be possible to stack movies and TV shows in the same row, so you can visualize the % of each?"
 2. "Now can you show me the same thing in a table? i.e. please show me the number of movies vs TV shows per release year in a table."
 3. "On what day did Netflix add the largest number of movies/TV shows to their catalogue?"
 4. "Of the TV shows and movies featured, how many were listed as 'Action & Adventure', 'TV Comedies', or 'Thrillers'? For simplicity, ignore the TV shows and movies that have multiple listings/categories."
